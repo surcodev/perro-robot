@@ -1,2 +1,2 @@
-# DIagrama de conexión
+# Diagrama de conexión
 ![conexion](imgs/diagrama_conexion.png)
